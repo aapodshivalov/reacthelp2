@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reacthelp2/static/css/main.4685b130.chunk.css",
+    "main.js": "/reacthelp2/static/js/main.70dadfc9.chunk.js",
+    "main.js.map": "/reacthelp2/static/js/main.70dadfc9.chunk.js.map",
+    "runtime~main.js": "/reacthelp2/static/js/runtime~main.3ea1e7a0.js",
+    "runtime~main.js.map": "/reacthelp2/static/js/runtime~main.3ea1e7a0.js.map",
+    "static/css/2.a102010d.chunk.css": "/reacthelp2/static/css/2.a102010d.chunk.css",
+    "static/js/2.75630196.chunk.js": "/reacthelp2/static/js/2.75630196.chunk.js",
+    "static/js/2.75630196.chunk.js.map": "/reacthelp2/static/js/2.75630196.chunk.js.map",
+    "index.html": "/reacthelp2/index.html",
+    "precache-manifest.27bb0a9e7c7f6b25f3f67f5812980773.js": "/reacthelp2/precache-manifest.27bb0a9e7c7f6b25f3f67f5812980773.js",
+    "service-worker.js": "/reacthelp2/service-worker.js",
+    "static/css/2.a102010d.chunk.css.map": "/reacthelp2/static/css/2.a102010d.chunk.css.map",
+    "static/css/main.4685b130.chunk.css.map": "/reacthelp2/static/css/main.4685b130.chunk.css.map",
+    "static/media/semantic.min.css": "/reacthelp2/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
